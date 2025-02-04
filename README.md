@@ -13,4 +13,4 @@ This course provides strategies and techniques for designing, creating and inter
 1. SQL
 2. MySQL
 3. NoSQL
-4. Database
+4. Database Management 
