@@ -1,4 +1,4 @@
-# HTTP5126-0NB Database Design and Development
+# Database Design and Development
 
 **Course Code**-HTTP5126-0NB
 
